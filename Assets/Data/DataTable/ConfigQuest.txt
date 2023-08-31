@@ -1,0 +1,13 @@
+id	questtype	name	description	number	reward
+1	5	daily login	daily login	1	100
+2	1	Enemy	Kill 10 Enemies	10	30
+3	1	Shot em up	Kill 20 enemies	20	45
+4	1	Boss	Kill 1 Boss	1	30
+5	1	Head shot	Head shoot	5	50
+6	4	Buy Gun	Buy a gun	1	30
+7	4	Buy Assault	Buy a Assault  gun	1	20
+8	2	Upgrade Gun	Upgrade a gun	4	30
+9	2	Max Level Gun	Upgrade max level Gun 	1	40
+10	3	Win	Win a mission 	1	50
+11	3	Lose	Lose a mission 	1	50
+12	3	Play	Play 3 mission	3	20

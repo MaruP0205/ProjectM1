@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8719acb7486cba747a133db3b7c439df, type: 3}
+  m_Name: ConfigWave
+  m_EditorClassIdentifier: 
+  records:
+  - id: W_001
+    number: 1
+    enemies: E_001
+    deplay: 2
+  - id: W_002
+    number: 2
+    enemies: E_001;E_002
+    deplay: 2
+  - id: W_003
+    number: 3
+    enemies: E_001;E_002
+    deplay: 2
+  - id: W_004
+    number: 3
+    enemies: E_002;E_003;E_004
+    deplay: 2
+  - id: W_005
+    number: 3
+    enemies: E_003;E_004;E_005
+    deplay: 1
+  - id: W_006
+    number: 4
+    enemies: E_004;E_005;E_006
+    deplay: 1
+  - id: W_007
+    number: 5
+    enemies: E_004;E_005;E_006;E_007
+    deplay: 1
+  - id: W_008
+    number: 6
+    enemies: E_004;E_006;E_008
+    deplay: 1
+  - id: W_009
+    number: 6
+    enemies: E_006;E_007
+    deplay: 1
+  - id: W_010
+    number: 1
+    enemies: E_007;E_008
+    deplay: 3

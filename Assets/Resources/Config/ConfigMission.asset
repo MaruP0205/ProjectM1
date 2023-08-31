@@ -1,0 +1,141 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8a993935e73680468ca66bbfc24539d, type: 3}
+  m_Name: ConfigMission
+  m_EditorClassIdentifier: 
+  records:
+  - id: 1
+    stage: 1
+    name: Survival
+    description: Survival
+    sceneName: Ingame_01
+    waves: W_001;W_001;W_002
+    reward: 50
+  - id: 2
+    stage: 1
+    name: Left 4 dead
+    description: Left 4 dead
+    sceneName: Ingame_06
+    waves: W_003;W_004;W_002;W_003
+    reward: 55
+  - id: 3
+    stage: 1
+    name: Kill shot
+    description: Kill shot
+    sceneName: Ingame_03
+    waves: W_004;W_005;W_005;W_006
+    reward: 60
+  - id: 4
+    stage: 2
+    name: Industry
+    description: Industry
+    sceneName: Ingame_08
+    waves: W_005;W_006;W_007;W_007
+    reward: 65
+  - id: 5
+    stage: 2
+    name: Nuclear
+    description: Nuclear
+    sceneName: Ingame_07
+    waves: W_007;W_008;W_009;W_010
+    reward: 70
+  - id: 6
+    stage: 2
+    name: Survival
+    description: Survival
+    sceneName: Ingame_02
+    waves: W_001;W_001;W_002
+    reward: 75
+  - id: 7
+    stage: 3
+    name: Left 4 dead
+    description: Left 4 dead
+    sceneName: Ingame_03
+    waves: W_003;W_004;W_002;W_003
+    reward: 80
+  - id: 8
+    stage: 3
+    name: Kill shot
+    description: Kill shot
+    sceneName: Ingame_10
+    waves: W_004;W_005;W_005;W_006
+    reward: 85
+  - id: 9
+    stage: 3
+    name: Industry
+    description: Industry
+    sceneName: Ingame_08
+    waves: W_005;W_006;W_007;W_007
+    reward: 90
+  - id: 10
+    stage: 4
+    name: Nuclear
+    description: Nuclear
+    sceneName: Ingame_04
+    waves: W_007;W_008;W_009;W_010
+    reward: 95
+  - id: 11
+    stage: 4
+    name: Survival
+    description: Survival
+    sceneName: Ingame_05
+    waves: W_001;W_001;W_002
+    reward: 100
+  - id: 12
+    stage: 4
+    name: Left 4 dead
+    description: Left 4 dead
+    sceneName: Ingame_06
+    waves: W_003;W_004;W_002;W_003
+    reward: 105
+  - id: 13
+    stage: 5
+    name: Kill shot
+    description: Kill shot
+    sceneName: Ingame_09
+    waves: W_004;W_005;W_005;W_006
+    reward: 110
+  - id: 14
+    stage: 5
+    name: Industry
+    description: Industry
+    sceneName: Ingame_03
+    waves: W_005;W_006;W_007;W_007
+    reward: 115
+  - id: 15
+    stage: 5
+    name: Nuclear
+    description: Nuclear
+    sceneName: Ingame_01
+    waves: W_007;W_008;W_009;W_010
+    reward: 120
+  - id: 16
+    stage: 6
+    name: Survival
+    description: Survival
+    sceneName: Ingame_010
+    waves: W_001;W_005;W_006
+    reward: 125
+  - id: 17
+    stage: 6
+    name: Left 4 dead
+    description: Left 4 dead
+    sceneName: Ingame_02
+    waves: W_005;W_004;W_006;W_003
+    reward: 130
+  - id: 18
+    stage: 6
+    name: Kill shot
+    description: Kill shot
+    sceneName: Ingame_07
+    waves: W_007;W_005;W_006;W_008
+    reward: 135

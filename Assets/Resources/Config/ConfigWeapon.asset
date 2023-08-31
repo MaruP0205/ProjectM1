@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 393f42de662b19e42af7c0b4fd393701, type: 3}
+  m_Name: ConfigWeapon
+  m_EditorClassIdentifier: 
+  records:
+  - id: 1
+    weaponType: 1
+    name: Derert eagle 50ae
+    description: Derert eagle 50ae
+    icon: gun_derert_eagle_50ae
+    prefab: WP_01
+    cost: 50
+  - id: 2
+    weaponType: 4
+    name: Ak47
+    description: Ak47
+    icon: gun_ak47
+    prefab: WP_02
+    cost: 120
+  - id: 3
+    weaponType: 2
+    name: Ithace37
+    description: Ithace37
+    icon: gun_ithace37
+    prefab: WP_03
+    cost: 100
+  - id: 4
+    weaponType: 3
+    name: Remington700
+    description: Remington700
+    icon: gun_remington700
+    prefab: WP_04
+    cost: 135
+  - id: 5
+    weaponType: 4
+    name: As val
+    description: As val
+    icon: gun_as_val
+    prefab: WP_05
+    cost: 160
+  - id: 6
+    weaponType: 4
+    name: Famas g2 smg
+    description: Famas g2 smg
+    icon: gun_fa_mas_g2_smg
+    prefab: WP_06
+    cost: 180
+  - id: 7
+    weaponType: 1
+    name: Glock18
+    description: Glock18
+    icon: gun_glock18
+    prefab: WP_07
+    cost: 207
+  - id: 8
+    weaponType: 1
+    name: Ingram mac11
+    description: Ingram mac11
+    icon: gun_ingram_mac11
+    prefab: WP_08
+    cost: 230
+  - id: 9
+    weaponType: 4
+    name: M16a2
+    description: M16a2
+    icon: gun_m16a2
+    prefab: WP_09
+    cost: 254
+  - id: 10
+    weaponType: 2
+    name: M32
+    description: M32
+    icon: gun_m32
+    prefab: WP_10
+    cost: 277
+  - id: 11
+    weaponType: 3
+    name: Svds
+    description: Svds
+    icon: gun_svds
+    prefab: WP_11
+    cost: 301

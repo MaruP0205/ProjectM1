@@ -1,0 +1,19 @@
+id	stage	name	description	sceneName	waves	reward
+1	1	Survival	Survival	Ingame_01	W_001;W_001;W_002	50
+2	1	Left 4 dead	Left 4 dead	Ingame_06	W_003;W_004;W_002;W_003	55
+3	1	Kill shot	Kill shot	Ingame_03	W_004;W_005;W_005;W_006	60
+4	2	Industry	Industry	Ingame_08	W_005;W_006;W_007;W_007	65
+5	2	Nuclear	Nuclear	Ingame_07	W_007;W_008;W_009;W_010	70
+6	2	Survival	Survival	Ingame_02	W_001;W_001;W_002	75
+7	3	Left 4 dead	Left 4 dead	Ingame_03	W_003;W_004;W_002;W_003	80
+8	3	Kill shot	Kill shot	Ingame_10	W_004;W_005;W_005;W_006	85
+9	3	Industry	Industry	Ingame_08	W_005;W_006;W_007;W_007	90
+10	4	Nuclear	Nuclear	Ingame_04	W_007;W_008;W_009;W_010	95
+11	4	Survival	Survival	Ingame_05	W_001;W_001;W_002	100
+12	4	Left 4 dead	Left 4 dead	Ingame_06	W_003;W_004;W_002;W_003	105
+13	5	Kill shot	Kill shot	Ingame_09	W_004;W_005;W_005;W_006	110
+14	5	Industry	Industry	Ingame_03	W_005;W_006;W_007;W_007	115
+15	5	Nuclear	Nuclear	Ingame_01	W_007;W_008;W_009;W_010	120
+16	6	Survival	Survival	Ingame_010	W_001;W_005;W_006	125
+17	6	Left 4 dead	Left 4 dead	Ingame_02	W_005;W_004;W_006;W_003	130
+18	6	Kill shot	Kill shot	Ingame_07	W_007;W_005;W_006;W_008	135

@@ -1,0 +1,9 @@
+id	name	prefab	damage	hp
+E_001	male	E_001	2	10
+E_002	female	E_002	2	15
+E_003	police	E_003	3	25
+E_004	guard	E_004	4	50
+E_005	boss	E_005	5	200
+E_006	boss2	E_006	6	300
+E_007	boss3	E_007	7	400
+E_008	finalboss	E_008	8	500

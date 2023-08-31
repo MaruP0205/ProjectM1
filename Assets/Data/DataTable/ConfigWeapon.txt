@@ -1,0 +1,12 @@
+id	weaponType	name	description	icon	prefab	cost
+1	1	Derert eagle 50ae	Derert eagle 50ae	gun_derert_eagle_50ae	WP_01	50
+2	4	Ak47	Ak47	gun_ak47	WP_02	120
+3	2	Ithace37	Ithace37	gun_ithace37	WP_03	100
+4	3	Remington700	Remington700	gun_remington700	WP_04	135
+5	4	As val	As val	gun_as_val	WP_05	160
+6	4	Famas g2 smg	Famas g2 smg	gun_fa_mas_g2_smg	WP_06	180
+7	1	Glock18	Glock18	gun_glock18	WP_07	207
+8	1	Ingram mac11	Ingram mac11	gun_ingram_mac11	WP_08	230
+9	4	M16a2	M16a2	gun_m16a2	WP_09	254
+10	2	M32	M32	gun_m32	WP_10	277
+11	3	Svds	Svds	gun_svds	WP_11	301

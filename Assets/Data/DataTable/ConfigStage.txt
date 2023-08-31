@@ -1,0 +1,7 @@
+id	name	description	star
+1	Survival	Survival	0
+2	Left 4 dead	Left 4 dead	3
+3	Kill shot	Kill shot	6
+4	Industry	Industry	9
+5	Nuclear	Nuclear	11
+6	Survival	Survival	14

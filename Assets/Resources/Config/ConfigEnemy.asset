@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2b6de3b6a4735e45b4222a5cef37443, type: 3}
+  m_Name: ConfigEnemy
+  m_EditorClassIdentifier: 
+  records:
+  - id: E_001
+    name: male
+    prefab: E_001
+    damage: 2
+    hp: 10
+  - id: E_002
+    name: female
+    prefab: E_002
+    damage: 2
+    hp: 15
+  - id: E_003
+    name: police
+    prefab: E_003
+    damage: 3
+    hp: 25
+  - id: E_004
+    name: guard
+    prefab: E_004
+    damage: 4
+    hp: 50
+  - id: E_005
+    name: boss
+    prefab: E_005
+    damage: 5
+    hp: 200
+  - id: E_006
+    name: boss2
+    prefab: E_006
+    damage: 6
+    hp: 300
+  - id: E_007
+    name: boss3
+    prefab: E_007
+    damage: 7
+    hp: 400
+  - id: E_008
+    name: finalboss
+    prefab: E_008
+    damage: 8
+    hp: 500

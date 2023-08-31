@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fcfa2e21562eb741828c3c8378d3528, type: 3}
+  m_Name: ConfigShop
+  m_EditorClassIdentifier: 
+  records:
+  - id: 1
+    name: Tiny
+    description: icon_coin_01
+    cost: 1
+    value: 50
+  - id: 2
+    name: Small
+    description: icon_coin_02
+    cost: 3
+    value: 180
+  - id: 3
+    name: Normal
+    description: icon_coin_03
+    cost: 5
+    value: 300
+  - id: 4
+    name: Big sale
+    description: icon_coin_04
+    cost: 10
+    value: 700
+  - id: 5
+    name: Huge
+    description: icon_coin_05
+    cost: 15
+    value: 1000

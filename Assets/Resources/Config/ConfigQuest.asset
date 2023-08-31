@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c7deba90bd9b384fa0b0e42dbc47113, type: 3}
+  m_Name: ConfigQuest
+  m_EditorClassIdentifier: 
+  records:
+  - id: 1
+    questtype: 5
+    name: daily login
+    description: daily login
+    number: 1
+    reward: 100
+  - id: 2
+    questtype: 1
+    name: Enemy
+    description: Kill 10 Enemies
+    number: 10
+    reward: 30
+  - id: 3
+    questtype: 1
+    name: Shot em up
+    description: Kill 20 enemies
+    number: 20
+    reward: 45
+  - id: 4
+    questtype: 1
+    name: Boss
+    description: Kill 1 Boss
+    number: 1
+    reward: 30
+  - id: 5
+    questtype: 1
+    name: Head shot
+    description: Head shoot
+    number: 5
+    reward: 50
+  - id: 6
+    questtype: 4
+    name: Buy Gun
+    description: Buy a gun
+    number: 1
+    reward: 30
+  - id: 7
+    questtype: 4
+    name: Buy Assault
+    description: Buy a Assault  gun
+    number: 1
+    reward: 20
+  - id: 8
+    questtype: 2
+    name: Upgrade Gun
+    description: Upgrade a gun
+    number: 4
+    reward: 30
+  - id: 9
+    questtype: 2
+    name: Max Level Gun
+    description: 'Upgrade max level Gun '
+    number: 1
+    reward: 40
+  - id: 10
+    questtype: 3
+    name: Win
+    description: 'Win a mission '
+    number: 1
+    reward: 50
+  - id: 11
+    questtype: 3
+    name: Lose
+    description: 'Lose a mission '
+    number: 1
+    reward: 50
+  - id: 12
+    questtype: 3
+    name: Play
+    description: Play 3 mission
+    number: 3
+    reward: 20

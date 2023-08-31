@@ -1,0 +1,6 @@
+id	name	description	cost	value
+1	Tiny	icon_coin_01	1	50
+2	Small	icon_coin_02	3	180
+3	Normal	icon_coin_03	5	300
+4	Big sale	icon_coin_04	10	700
+5	Huge	icon_coin_05	15	1000
